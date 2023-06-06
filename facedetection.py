@@ -52,10 +52,4 @@ def main():
 if __name__ == '__main__':
     main()
  
-    
- 
-    
- 
-    
- 
 st.subheader('Hope You Liked it!')
